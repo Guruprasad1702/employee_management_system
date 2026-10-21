@@ -343,7 +343,7 @@ The Employee & Equipment Management System demonstrates the use of Java programm
 
 ## 12. Author
 
-Student Name: Parth Nikhil Kolekar
+Student Name: Guruprasad N
 
 Project: Employee & Equipment Management System
 
